@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-Project on survival of titanic predictions.
+This repo is for the project I worked on Kaggle long back for survival of titanic predictions.
